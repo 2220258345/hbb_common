@@ -101,6 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["desk.huaqiweilai.top"];
+
 pub const RS_PUB_KEY: &str = "SvxFcUxMiL2dcgOXTbfpqc0CJbg2s2V10L2JuYVwSTc=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
